@@ -1,5 +1,9 @@
 # RouterAI Balance — виджет для AIO Launcher
 
+>
+> warning: work in progress
+>
+
 Простой виджет, который показывает баланс на **RouterAI** на главном экране через [AIO Launcher](https://aiolauncher.app).
 
 ## Установка
